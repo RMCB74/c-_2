@@ -54,7 +54,8 @@ namespace CRUD_CSharp1
                     //CJsonFile JfILE = new CJsonFile(filejsonPath);
                     dgViewJson.DataSource = new BindingList<E_Jsonv1>(CJsonFile.ListaJson(filejsonPath));
 
-                    dgViewJson.DataSource = lista;//rmcb..1aabb
+                    dgViewJson.DataSource = lista;//rmcb..1aabbc
+
                 }
             }
 
