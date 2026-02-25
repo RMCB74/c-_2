@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|d:\\devss2026\\vsc#\\c#_2\\crud_csharp1\\frmjsonv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|c:\\users\\dell-pc\\source\\repos\\rmcb74\\c-_2\\frmjsonv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|solutionrelative:frmjsonv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\frmjsonv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\frmjsonv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|solutionrelative:frmjsonv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|d:\\devss2026\\vsc#\\c#_2\\crud_csharp1\\config\\cjsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|solutionrelative:config\\cjsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|d:\\devss2026\\vsc#\\c#_2\\crud_csharp1\\config\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|solutionrelative:config\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\config\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|solutionrelative:config\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\config\\cempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|solutionrelative:config\\cempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\config\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|solutionrelative:config\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\config\\cjsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|solutionrelative:config\\cjsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\config\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|solutionrelative:config\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\config\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|solutionrelative:config\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\config\\cempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|solutionrelative:config\\cempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\config\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|solutionrelative:config\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AB1A850-5EA0-4CF2-BBFB-55DCC245005A}|CRUD_CSharp1.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -54,43 +54,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CJsonFile.cs",
-              "DocumentMoniker": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\Config\\CJsonFile.cs",
-              "RelativeDocumentMoniker": "Config\\CJsonFile.cs",
-              "ToolTip": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\Config\\CJsonFile.cs",
-              "RelativeToolTip": "Config\\CJsonFile.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T16:38:28.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CConexion.cs",
-              "DocumentMoniker": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\Config\\CConexion.cs",
+              "DocumentMoniker": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\Config\\CConexion.cs",
               "RelativeDocumentMoniker": "Config\\CConexion.cs",
-              "ToolTip": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\Config\\CConexion.cs",
+              "ToolTip": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\Config\\CConexion.cs",
               "RelativeToolTip": "Config\\CConexion.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T15:45:25.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T15:45:25.152Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmJsonv1.cs",
-              "DocumentMoniker": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\frmJsonv1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\frmJsonv1.cs",
               "RelativeDocumentMoniker": "frmJsonv1.cs",
-              "ToolTip": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\frmJsonv1.cs",
+              "ToolTip": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\frmJsonv1.cs",
               "RelativeToolTip": "frmJsonv1.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAqwE0AAABoAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwDgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T01:38:16.784Z",
               "EditorCaption": ""
@@ -99,9 +85,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "frmJsonv1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\frmJsonv1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\frmJsonv1.cs",
               "RelativeDocumentMoniker": "frmJsonv1.cs",
-              "ToolTip": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\frmJsonv1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\frmJsonv1.cs [Dise\u00F1o]",
               "RelativeToolTip": "frmJsonv1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T01:38:14.74Z",
@@ -109,24 +95,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Conexion.cs",
-              "DocumentMoniker": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\Config\\Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\Config\\Conexion.cs",
               "RelativeDocumentMoniker": "Config\\Conexion.cs",
-              "ToolTip": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\Config\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\Config\\Conexion.cs",
               "RelativeToolTip": "Config\\Conexion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T01:58:42.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T01:58:42.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\form1.cs",
+              "RelativeDocumentMoniker": "form1.cs",
+              "ToolTip": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T02:41:42.527Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CJsonFile.cs",
+              "DocumentMoniker": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\Config\\CJsonFile.cs",
+              "RelativeDocumentMoniker": "Config\\CJsonFile.cs",
+              "ToolTip": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\Config\\CJsonFile.cs",
+              "RelativeToolTip": "Config\\CJsonFile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T16:38:28.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Log.cs",
-              "DocumentMoniker": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\Config\\Log.cs",
+              "DocumentMoniker": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\Config\\Log.cs",
               "RelativeDocumentMoniker": "Config\\Log.cs",
-              "ToolTip": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\Config\\Log.cs",
+              "ToolTip": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\Config\\Log.cs",
               "RelativeToolTip": "Config\\Log.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,23 +144,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\form1.cs",
-              "RelativeDocumentMoniker": "form1.cs",
-              "ToolTip": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T02:41:42.527Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\form1.cs",
               "RelativeDocumentMoniker": "form1.cs",
-              "ToolTip": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\form1.cs",
+              "ToolTip": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\form1.cs",
               "RelativeToolTip": "form1.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowB0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -162,9 +159,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Main.cs",
-              "DocumentMoniker": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\Main.cs",
+              "DocumentMoniker": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\Main.cs",
               "RelativeDocumentMoniker": "Main.cs",
-              "ToolTip": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\Main.cs",
+              "ToolTip": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\Main.cs",
               "RelativeToolTip": "Main.cs",
               "ViewState": "AgIAAF4AAAAAAAAAAAAUwGoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,11 +170,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CEmpleado.cs",
-              "DocumentMoniker": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\Config\\CEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\Config\\CEmpleado.cs",
               "RelativeDocumentMoniker": "Config\\CEmpleado.cs",
-              "ToolTip": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\Config\\CEmpleado.cs",
+              "ToolTip": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\Config\\CEmpleado.cs",
               "RelativeToolTip": "Config\\CEmpleado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -188,9 +185,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Main.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\Main.cs",
+              "DocumentMoniker": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\Main.cs",
               "RelativeDocumentMoniker": "Main.cs",
-              "ToolTip": "D:\\DEVSS2026\\VSC#\\C#_2\\CRUD_CSharp1\\Main.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Dell-PC\\source\\repos\\RMCB74\\c-_2\\Main.cs [Dise\u00F1o]",
               "RelativeToolTip": "Main.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T22:46:12.586Z",
