@@ -1,0 +1,17 @@
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\obj\Debug\CRUD_CSharp1.csproj.AssemblyReference.cache
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\obj\Debug\CRUD_CSharp1.Form1.resources
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\obj\Debug\CRUD_CSharp1.Properties.Resources.resources
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\obj\Debug\CRUD_CSharp1.csproj.GenerateResource.cache
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\obj\Debug\CRUD_CSharp1.csproj.CoreCompileInputs.cache
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\bin\Debug\CRUD_CSharp1.exe.config
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\bin\Debug\CRUD_CSharp1.exe
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\bin\Debug\CRUD_CSharp1.pdb
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\obj\Debug\CRUD_CSharp1.exe
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\obj\Debug\CRUD_CSharp1.pdb
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\obj\Debug\CRUD_CSharp1.Main.resources
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\obj\Debug\CRUD_CSharp1.Skills.resources
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\obj\Debug\CRUD_CSharp1.frmValidar.resources
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\bin\Debug\Newtonsoft.Json.dll
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\bin\Debug\Newtonsoft.Json.xml
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\obj\Debug\CRUD_CSharp1.frmJsonv1.resources
+D:\DEVSS2026\VSC#\C#_2\CRUD_CSharp1\obj\Debug\CRUD_CSh.0F892083.Up2Date
