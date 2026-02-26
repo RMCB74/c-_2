@@ -107,5 +107,13 @@ namespace CRUD_CSharp1
             frmJSn.ShowDialog();
 
         }
+
+        private void arqsampleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmArq frmAr = new frmArq(); 
+            frmAr.ShowDialog();
+
+
+        }
     }
 }

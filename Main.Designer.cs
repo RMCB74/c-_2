@@ -39,6 +39,8 @@
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.validarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.jsonToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.arqsampleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuStrip.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -49,6 +51,7 @@
             this.empledosToolStripMenuItem,
             this.skillsToolStripMenuItem,
             this.relacionToolStripMenuItem,
+            this.toolStripMenuItem1,
             this.sistemaToolStripMenuItem});
             this.mnuStrip.Location = new System.Drawing.Point(0, 0);
             this.mnuStrip.Name = "mnuStrip";
@@ -98,7 +101,7 @@
             // empSkilToolStripMenuItem
             // 
             this.empSkilToolStripMenuItem.Name = "empSkilToolStripMenuItem";
-            this.empSkilToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
+            this.empSkilToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.empSkilToolStripMenuItem.Text = "Emp_Skill";
             this.empSkilToolStripMenuItem.Click += new System.EventHandler(this.empSkilToolStripMenuItem_Click);
             // 
@@ -132,6 +135,21 @@
             this.jsonToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.jsonToolStripMenuItem.Text = "Json";
             this.jsonToolStripMenuItem.Click += new System.EventHandler(this.jsonToolStripMenuItem_Click);
+            // 
+            // toolStripMenuItem1
+            // 
+            this.toolStripMenuItem1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.arqsampleToolStripMenuItem});
+            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(38, 20);
+            this.toolStripMenuItem1.Text = "Arq";
+            // 
+            // arqsampleToolStripMenuItem
+            // 
+            this.arqsampleToolStripMenuItem.Name = "arqsampleToolStripMenuItem";
+            this.arqsampleToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.arqsampleToolStripMenuItem.Text = "Arq_sample";
+            this.arqsampleToolStripMenuItem.Click += new System.EventHandler(this.arqsampleToolStripMenuItem_Click);
             // 
             // Main
             // 
@@ -167,5 +185,7 @@
         private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem validarToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem jsonToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem arqsampleToolStripMenuItem;
     }
 }
