@@ -48,7 +48,7 @@
             this.textBox2.ImeMode = System.Windows.Forms.ImeMode.Hiragana;
             this.textBox2.Location = new System.Drawing.Point(89, 21);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
+            this.textBox2.Size = new System.Drawing.Size(129, 20);
             this.textBox2.TabIndex = 2;
             // 
             // button1
@@ -72,9 +72,9 @@
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(118, 53);
+            this.textBox3.Location = new System.Drawing.Point(142, 47);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(54, 20);
+            this.textBox3.Size = new System.Drawing.Size(76, 20);
             this.textBox3.TabIndex = 5;
             // 
             // label2
@@ -82,9 +82,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(86, 56);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(26, 13);
+            this.label2.Size = new System.Drawing.Size(50, 13);
             this.label2.TabIndex = 6;
-            this.label2.Text = "Con";
+            this.label2.Text = "Con 1 o2";
             // 
             // frmArq
             // 
