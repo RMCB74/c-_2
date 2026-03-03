@@ -37,7 +37,7 @@ namespace CRUD_CSharp1
                     ProcesaArq(eEsteArq.HTTP);
                     break;
                 case (int)eEsteArq.FILE:
-                    ProcesaArq(eEsteArq.HTTP);
+                    ProcesaArq(eEsteArq.FILE);//
                     break;
                 case (int)eEsteArq.ZIP:
                     ProcesaArq(eEsteArq.ZIP);
