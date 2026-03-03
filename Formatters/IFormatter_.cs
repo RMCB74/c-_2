@@ -8,7 +8,7 @@ namespace CRUD_CSharp1.Formatters
 {
     public interface IFormatter_
     {
-          string Format(string contect);
+          string Format(string contect);//
 
 
     }
