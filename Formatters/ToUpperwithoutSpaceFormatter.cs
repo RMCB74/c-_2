@@ -11,9 +11,7 @@ namespace CRUD_CSharp1.Formatters
         public string Format(string content)
         {
             content = content.ToUpper();
-            return content.Replace(" ", "");
-
-
+            return content.Replace(" ", "");//
         }
     }
 }

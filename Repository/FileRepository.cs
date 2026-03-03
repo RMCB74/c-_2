@@ -18,13 +18,8 @@ namespace CRUD_CSharp1.Repository
 
         public  void  Save(string content)
         {
-            string path = "file.txt";
-            System.IO.File.WriteAllText(path, content);
+            System.IO.File.WriteAllText(_path, content);//
         }
-
-
-
-
     }
 
     

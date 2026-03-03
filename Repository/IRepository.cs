@@ -8,8 +8,6 @@ namespace CRUD_CSharp1.Repository
 {
     public interface IRepository
     {
-             void Save(String content);
-
-
+             void Save(String content);//
     }
 }

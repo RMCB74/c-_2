@@ -10,8 +10,6 @@ namespace CRUD_CSharp1.Service
 {
     public interface ISenderService
     {
-          void  Send(IFormatter_ formatter, IRepository repository, string  menssage);
-
-
+          void  Send(IFormatter_ formatter, IRepository repository, string  menssage);//
     }
 }

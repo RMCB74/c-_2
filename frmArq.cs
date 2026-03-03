@@ -6,8 +6,10 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO.Compression;
 using System.Linq;
 using System.Net.Http;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -17,7 +19,7 @@ namespace CRUD_CSharp1
 {
     public partial class frmArq : Form
     {
-        private string texto {  get; set; }    
+        private string texto { get; set; }
 
         public frmArq()
         {
@@ -27,6 +29,31 @@ namespace CRUD_CSharp1
 
         private void button1_Click(object sender, EventArgs e)
         {
+
+            int EsteArq = int.Parse(textBox2.Text.ToString());
+            switch (EsteArq)
+            {
+                case (int)eEsteArq.HTTP:
+                    ProcesaArq(eEsteArq.HTTP);
+                    break;
+                case (int)eEsteArq.FILE:
+                    ProcesaArq(eEsteArq.HTTP);
+                    break;
+                case (int)eEsteArq.ZIP:
+                    ProcesaArq(eEsteArq.ZIP);
+                    break;
+
+                default:
+
+
+                    break;
+
+            }
+        }
+
+        private void ProcesaArq(eEsteArq EsteArq)
+        {
+
             int este = 2;
             textBox1.Text = "https://jsonplaceholder.typicode.com/post";
             if (textBox3.Text == string.Empty)
@@ -36,8 +63,6 @@ namespace CRUD_CSharp1
 
             if (este == 1)
             {
-               
-
                 switch (textBox2.Text)
                 {
                     case "1":
@@ -58,15 +83,29 @@ namespace CRUD_CSharp1
                         break;
                     case "3":
                         string path2 = "files/file.txt";
-                        string pathfolder = "files";
+
+                        StringBuilder strB = new StringBuilder();
+                        strB.Append("files");
+                        strB.Append("/");
+                        strB.Append("file");
+                        strB.Append(".");
+                        strB.Append("txt");
+
+                        if (path2 == strB.ToString())
+                        {
+                            path2 = strB.ToString();
+                        }
+
+                        //string pathfolder? = "files";
                         string pathZip = "fileZip.zip";
                         System.IO.File.WriteAllText(path2, texto);
-                        System.IO.Compression.ZipFile.CreateFromDirectory(pathfolder, pathZip);
+                        System.IO.Compression.ZipFile.CreateFromDirectory(path2, pathZip);
+
                         label1.Text = "zip";
                         break;
 
                     default:
-                        label1.Text = "error"; 
+                        label1.Text = "error";
                         break;
                 }
 
@@ -75,27 +114,35 @@ namespace CRUD_CSharp1
             if (este == 2)
             {
                 var sender_ = new CRUD_CSharp1.Service.SerderService();
+                //int EsteArq = int.Parse(textBox2.Text.ToString());
 
-                switch (textBox2.Text)
+                switch (EsteArq)
                 {
-                    case "1":
-                          sender_.Send(
-                            new ToUpperFormatters(),
-                            new HttpRepository(textBox1.Text),
-                                "mensaje qq");
-                             label1.Text = "se envio";
+                    case eEsteArq.HTTP:
+                        sender_.Send(
+                          new ToUpperFormatters(),
+                          new HttpRepository(textBox1.Text),
+                              "mensaje qq   ");
+                        label1.Text = "se envio";
                         break;
-                    case "2":
-                          sender_.Send(
-                            new ToUpperFormatters(),
-                            new FileRepository("File.txt"),
-                            "mensaje b");
+
+                    case eEsteArq.FILE:
+                        string path = string.Empty;
+                        path = path + "file" + DateTime.Now.ToString("yyyymmdd");
+                        path = path + ".txt";
+
+                        sender_.Send(
+                          new ToUpperwithoutSpaceFormatter(),
+                          new FileRepository(path),
+                          "  mensaje   b   ");
                         label1.Text = "se guardo";
                         break;
-                    case "3":
+                    case eEsteArq.ZIP:
                         sender_.Send(
                            new ToUpperFormatters(),
-                           new FileZipRepository("File.txt","files","fileZip.zip"),
+                           new FileZipRepository("File.txt",
+                           "files",
+                           "fileZip.zip"),
                            "mensaje c");
                         label1.Text = "se zip";
 
@@ -109,6 +156,12 @@ namespace CRUD_CSharp1
 
             }
         }
- 
+        public enum eEsteArq//03032026
+        {
+            HTTP = 1,
+            FILE = 2,
+            ZIP = 3
+        }
+
     }
 }

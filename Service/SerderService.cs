@@ -15,10 +15,7 @@ namespace CRUD_CSharp1.Service
         public void  Send(IFormatter_ formmatter, IRepository repository, string message)
         {
             message = formmatter.Format(message);
-              repository.Save(message);
-
-
-
+              repository.Save(message);//
         }
 
     }

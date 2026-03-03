@@ -32,11 +32,9 @@ namespace CRUD_CSharp1.Repository
             //System.IO.Compression.ZipFile.CreateFromDirectory(pathfolder, pathZip);
 
             //await File.WriteAllText(_pathFile, content);
+           
             File.WriteAllText(_pathFile, content);
-            System.IO.Compression.ZipFile.CreateFromDirectory(_folder, _pathZip);
-
-
-
+            System.IO.Compression.ZipFile.CreateFromDirectory(_folder, _pathZip);//
         }
 
     }

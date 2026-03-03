@@ -8,12 +8,9 @@ namespace CRUD_CSharp1.Formatters
 {
     public class ToUpperFormatters : IFormatter_
     {
-
         public string Format(string content)
         {
-            return content.ToUpper();
+            return content.ToUpper();//
         }
-
-
     }
 }
