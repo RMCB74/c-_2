@@ -113,7 +113,8 @@ namespace CRUD_CSharp1
             }
             if (este == 2)
             {
-                var sender_ = new CRUD_CSharp1.Service.SerderService();
+                var sender_ = new SerderService();
+                //var sender_ = new CRUD_CSharp1.Service.SerderService();
                 //int EsteArq = int.Parse(textBox2.Text.ToString());
 
                 switch (EsteArq)
@@ -163,5 +164,9 @@ namespace CRUD_CSharp1
             ZIP = 3
         }
 
+        private void frmArq_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

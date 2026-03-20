@@ -99,6 +99,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "frmArq";
             this.Text = "frmArq";
+            this.Load += new System.EventHandler(this.frmArq_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

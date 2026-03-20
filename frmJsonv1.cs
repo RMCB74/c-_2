@@ -73,10 +73,10 @@ namespace CRUD_CSharp1
             if (este == 2)
             {
                 var listaActualizada2 = (BindingList<E_Jsonv1>)dgViewJson.DataSource;
-                listaActualizada2.OrderBy(x => x.Tip).ToList();
-
-                string jsonActualizado = JsonConvert.SerializeObject(listaActualizada2.OrderByDescending(x => x.Tip), Formatting.Indented);
-
+                var x2 = listaActualizada2.OrderBy(x => x.Tip).ToList();
+                //??
+                string jsonActualizado = JsonConvert.SerializeObject(listaActualizada2.OrderByDescending(x => x.Tip ).ThenByDescending(x => x.Es), Formatting.Indented);
+                //okok??
                 File.WriteAllText(@filejsonPath, jsonActualizado);
             }
 
